@@ -1,0 +1,23 @@
+#player1btn{
+    padding: 7px;
+    background: #34696f;
+    border: 2px solid rgba(33, 68, 72, 0.59);
+   }
+   #player2btn{
+    padding: 7px;
+    background: #34696f;
+    border: 2px solid rgba(33, 68, 72, 0.59);
+   }
+   #resetbtn{
+    padding: 7px;
+    background: red;
+    border: 2px solid rgba(33, 68, 72, 0.59);
+   }
+   .style{
+       color: crimson;
+       padding: 20px;
+   };
+   /* .style2{
+       color: darkred;
+       padding: 20px;
+   }; */
